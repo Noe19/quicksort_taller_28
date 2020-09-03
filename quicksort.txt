@@ -1,0 +1,5 @@
+
+original arreglo
+|104||87||9||10||99|
+nuevo arreglo ordenado
+|9||10||87||99||104|
