@@ -3,7 +3,7 @@
 using namespace std;
  int mitad (int arr[], int pinicial,int pfinal);
  void ordenar (int arr[], int inicial ,int pfinal);
-
+//es un algoritmo que se utiliza punteros para poder ordenar (pinole )
 int main() {
   ofstream quicksort;
   quicksort.open ("quicksort.txt",ios::app);
